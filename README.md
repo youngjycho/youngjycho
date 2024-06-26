@@ -1,5 +1,5 @@
 - 🙉 Hi, I’m @youngjycho but you can call me Joe!
-- 🎭 I’m interested in medical physics and biomedical engineering as a recent biophysics graduate from Wake Forest University. I'm also interested in creative writing and music, so feel free to recommend me any good books or songs!
+- 🔬 I'm an incoming medical physics graduate student at Wake Forest University. 
 - 📚 I’m currently taking Harvard's CS50's Intro to Comp Sci, so I can get a better handle in the world of computer science. 
 - 🤔 Not currently working on any projects, but when the time comes it'll be revolutionary (lol maybe)!
 - 💌 If you ever want to connect with me, the best place to find me is my LinkedIn page: www.linkedin.com/in/youngjycho .
